@@ -25,32 +25,32 @@ Paste your custom code in the textarea, select your target language, and press "
 1-Frontend: HTML, CSS (Glassmorphism + Responsive), JavaScript
 2-Compiler Engine: Custom Lexer, Parser, and Code Generator (JS-based)
 
-✅Supported Keywords&nbsp;&nbsp;&nbsp Keyword	Meaning<br>
-maano&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp variable declare<br>
-likho&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp print/output<br>
-agar&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	  if(conditional statements)<br>
-warna&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	  else<br>
-jabtak&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	while loop<br>
+✅Supported Keywords&nbsp;&nbsp;&nbsp; Keyword	Meaning<br>
+maano&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; variable declare<br>
+likho&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; print/output<br>
+agar&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;	  if(conditional statements)<br>
+warna&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; else<br>
+jabtak&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;	while loop<br>
 
-🧪 How It Works
-1-Lexer breaks down the custom code into tokens.
-2-Parser builds an Abstract Syntax Tree (AST).
-3-Code Generator outputs code in the selected language.
-4-JavaScript is executed directly in-browser to show output.
+🧪 How It Works<br>
+1-Lexer breaks down the custom code into tokens.<br>
+2-Parser builds an Abstract Syntax Tree (AST).<br>
+3-Code Generator outputs code in the selected language.<br>
+4-JavaScript is executed directly in-browser to show output.<br>
 
-🖼️ UI Highlights
-1-Responsive layout
-2-Dark/light theme toggle
-3-Syntax-highlighted output panels
-4-Tabs to switch between output and translated code
+🖼️ UI Highlights.<br>
+1-Responsive layout.<br>
+2-Dark/light theme toggle.<br>
+3-Syntax-highlighted output panels.<br>
+4-Tabs to switch between output and translated code.<br>
 
-📌 Future Improvements
-1-Add support for functions and arrays
-2-Syntax highlighting in editor
-3-Server-side execution for non-JS code
+📌 Future Improvements<br>
+1-Add support for functions and arrays.<br>
+2-Syntax highlighting in editor.<br>
+3-Server-side execution for non-JS code.<br>
 
 👨‍💻 Author
-#### Author
+#### Author<br>
 - [Govind Singh Kathayat](https://www.linkedin.com/in/govind-singh-kathayat-328a5a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [July 2025]
 
 
