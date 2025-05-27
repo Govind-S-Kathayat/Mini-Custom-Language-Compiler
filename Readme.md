@@ -6,14 +6,15 @@ A web-based mini-compiler that translates code written in a custom pseudo-langua
 - ✍️ Write code in a human-friendly, Hindi-inspired syntax
 - ⚙️ Lexer
 - ⚙️ Parser + AST-based translator
-
+  
 💻 Converts custom code to:
   - JavaScript
   - Python
   - C
   - C++
   - Go
-  - 
+    
+  <br>
 - 🧪 Real-time JS code execution in-browser
 - 🌗 Light/Dark mode toggle
 - 🧾 Tabs for viewing Converted Code and Output
@@ -24,12 +25,12 @@ Paste your custom code in the textarea, select your target language, and press "
 1-Frontend: HTML, CSS (Glassmorphism + Responsive), JavaScript
 2-Compiler Engine: Custom Lexer, Parser, and Code Generator (JS-based)
 
-✅Supported Keywords      Keyword	Meaning
-maano	                    variable declare
-likho	                    print/output
-agar	                    if(conditional statements)
-warna	                    else
-jabtak	                  while loop
+✅Supported Keywords&nbsp;&nbsp;&nbsp Keyword	Meaning<br>
+maano&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp variable declare<br>
+likho&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp print/output<br>
+agar&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	  if(conditional statements)<br>
+warna&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	  else<br>
+jabtak&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nb	while loop<br>
 
 🧪 How It Works
 1-Lexer breaks down the custom code into tokens.
