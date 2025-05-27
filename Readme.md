@@ -20,29 +20,6 @@ A web-based mini-compiler that translates code written in a custom pseudo-langua
 
 Paste your custom code in the textarea, select your target language, and press "▶ Run Code".
 
-## 📚 Sample Pseudo-Code Syntax
-
-```plaintext
-maano x = 5
-maano y = 10
-maano sum = x + y
-likho sum
-
-agar x < y {
-    likho "x is less than y"
-}
-warna {
-    likho "x is not less than y"
-}
-
-maano a = 0
-jabtak a < 3 {
-    likho a
-    a = a + 1
-}
-.
-
-
 🛠️ Tech Stack
 Frontend: HTML, CSS (Glassmorphism + Responsive), JavaScript
 
@@ -88,6 +65,31 @@ Add support for functions and arrays
 Syntax highlighting in editor
 
 Server-side execution for non-JS code
+
+
+## 📚 Sample Pseudo-Code Syntax
+
+```plaintext
+maano x = 5
+maano y = 10
+maano sum = x + y
+likho sum
+
+agar x < y {
+    likho "x is less than y"
+}
+warna {
+    likho "x is not less than y"
+}
+
+maano a = 0
+jabtak a < 3 {
+    likho a
+    a = a + 1
+}
+.
+
+
 
 👨‍💻 Author
 #### Author
