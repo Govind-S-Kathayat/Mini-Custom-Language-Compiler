@@ -40,6 +40,8 @@ jabtak a < 3 {
     likho a
     a = a + 1
 }
+.
+
 
 🛠️ Tech Stack
 Frontend: HTML, CSS (Glassmorphism + Responsive), JavaScript
