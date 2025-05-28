@@ -3,17 +3,19 @@
 A web-based mini-compiler that translates code written in a custom pseudo-language (inspired by Hindi/Urdu syntax) into multiple mainstream languages like JavaScript, C, C++, Python, and Go.
 
 ## 🌟 Features
+
 - ✍️ Write code in a human-friendly, Hindi-inspired syntax
 - ⚙️ Lexer
 - ⚙️ Parser + AST-based translator
-  
+
 💻 Converts custom code to:
-  - JavaScript
-  - Python
-  - C
-  - C++
-  - Go
-    
+
+- JavaScript
+- Python
+- C
+- C++
+- Go
+
   <br>
 - 🧪 Real-time JS code execution in-browser
 - 🌗 Light/Dark mode toggle
@@ -50,9 +52,10 @@ jabtak&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wh
 3-Server-side execution for non-JS code.<br>
 
 👨‍💻 Author
-#### Author<br>
-- [Govind Singh Kathayat](https://www.linkedin.com/in/govind-singh-kathayat-328a5a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [July 2025]
 
+#### Author<br>
+
+- [Govind Singh Kathayat](https://www.linkedin.com/in/govind-singh-kathayat-328a5a257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [July 2025]
 
 ## 📚 Sample Pseudo-Code Syntax
 
@@ -85,6 +88,6 @@ jabtak a < 3 {
 
 
 
-
+kjkfhvdjzf,hvnjkdghvndsjghvnhjgbvn
 
 ```
